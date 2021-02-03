@@ -14,5 +14,9 @@ horizental line
 -milk
 *italic*
 **blod**
+how to open hyper links [apssdc](https://www.apssdc.in)
+
+
+[ciet collage](https://www.chalapathiengg.ac.in/)
 
 
